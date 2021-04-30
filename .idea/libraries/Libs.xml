@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libs/jsoup-1.10.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/Libs" />
+      <root url="jar://$PROJECT_DIR$/Libs/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Libs/jsoup-1.10.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Libs" recursive="false" />
+  </library>
+</component>
